@@ -1,7 +1,7 @@
 To add a nozzle cleaner on the Neptune 4 Max.
 I've used this model :
 ==> https://www.printables.com/model/1150288-neptune-4-max-nozzle-cleaner-wpositive-locator/files
-This model is great because it insert in the bed and is lock by a screw of the bed.
+This model is great because it insert in the bed and is locked by a screw of the bed.
 Add a little coper brush that fit in the model.
 
 *** In my case i've made a different X left case (less large). ***
